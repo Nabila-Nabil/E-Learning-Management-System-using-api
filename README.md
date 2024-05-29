@@ -2,7 +2,7 @@
 
 ### 📚 Project :  E-Learning Management System (Backend)
 
-### 📂 Repository Link: [Learnify Backend](https://github.com/Nabila-Nabil/Learnify-e-learning-management-system-using-api)
+### 📂 Repository Link: [Learnify Backend](https://github.com/Nabila-Nabil/Learnify-backend-E-Learning-Management-System-api)
 
 ### 📜 Project Description:
 A comprehensive backend system for an e-learning management platform, enabling seamless course management, user authentication, and content delivery.
