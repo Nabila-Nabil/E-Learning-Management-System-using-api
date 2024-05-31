@@ -8,8 +8,14 @@
 A comprehensive backend system for an e-learning management platform, enabling seamless course management, user authentication, and content delivery.
 
 ### 🛠 Technologies Used:
-- **Back-End**: ASP.NET Core, Entity Framework, MS SQL Server
-- **Tools**: Git, GitHub
+**1-Entity Framework Core**: ORM for database operations.
+**2-SQL Server**: Database management system.
+**3-ASP.NET Core Identity**: For authentication and authorization.
+**4-JWT**: For token-based authentication.
+**5-AutoMapper**: For object-object mapping.
+**6-Repository Pattern**: For data access abstraction.
+**7-Dependency Injection**: For managing dependencies.
+**8-DTOs**: For data transfer between layers.
 
 ### 🌟 Features: 
 - User authentication and role management
